@@ -9,6 +9,11 @@ Meet the team behind Drone Demineur, a group of dedicated individuals committed 
 - Expertise: Engineering and Project Management
 [LinkedIn](https://www.linkedin.com/in/jean-philippe-leli%C3%A8vre-b367221/)
 
+### Yves Brugière
+- Role: designer
+- Expertise: design/ergonomy and project management
+[LinkedIn](https://www.linkedin.com/in/yves-brugiere-bewhydesign/)
+
 ### Guillaume Dorschner
 - Role: 
 - Expertise: Software Development and AI Integration
